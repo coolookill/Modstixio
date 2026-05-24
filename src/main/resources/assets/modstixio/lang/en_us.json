@@ -1,0 +1,15 @@
+{
+  "item.modstixio.tongstone_fragment":"Tongstone Fragment",
+  "item.modstixio.redstix_core":"Redstix Core",
+  "item.modstixio.redstix_whip":"Redstix Whip",
+  "item.modstixio.redstix_coil":"Redstix Coil",
+  "item.modstixio.compressed_redstix_core":"Compressed Redstix Core",
+  "item.modstixio.reinforced_redstix_whip":"Reinforced Redstix Whip",
+  "item.modstixio.pull_rate.info": "Pulling Rate: %.1f%%",
+  "item.modstixio.pull_strength.info": "Pulling Strength: %.1f",
+  "item.modstixio.pull_cooldown.info": "Pulling Cooldown: %.1fs",
+
+  "block.modstixio.tongstone":"Tongstone",
+
+  "itemGroup.modstix":"modstix"
+}

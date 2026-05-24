@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": "modstixio:tongstone",
+    "C": "modstixio:compressed_redstix_core",
+    "L": "modstixio:redstix_coil",
+    "W": "modstixio:redstix_whip",
+    "N": "minecraft:netherite_ingot"
+  },
+  "pattern": [
+    "LCN",
+    "TWC",
+    "CTL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "modstixio:reinforced_redstix_whip"
+  }
+}

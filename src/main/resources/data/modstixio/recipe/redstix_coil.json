@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "minecraft:string",
+    "T": "modstixio:tongstone",
+    "A": "minecraft:repeater"
+  },
+  "pattern": [
+    "SSS",
+    "STS",
+    " A "
+  ],
+  "result": {
+    "count": 2,
+    "id": "modstixio:redstix_coil"
+  }
+}

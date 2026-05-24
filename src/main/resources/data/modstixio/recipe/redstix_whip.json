@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "modstixio:redstix_coil",
+    "T": "modstixio:tongstone",
+    "R": "modstixio:redstix_core"
+  },
+  "pattern": [
+    "SST",
+    "SRS",
+    "RSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "modstixio:redstix_whip"
+  }
+}

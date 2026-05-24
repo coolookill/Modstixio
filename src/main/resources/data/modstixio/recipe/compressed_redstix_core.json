@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": "minecraft:heavy_core",
+    "C": "modstixio:redstix_core",
+    "R": "minecraft:repeater"
+  },
+  "pattern": [
+    "HCH",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "modstixio:compressed_redstix_core"
+  }
+}

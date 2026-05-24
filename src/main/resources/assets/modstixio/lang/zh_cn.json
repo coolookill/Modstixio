@@ -1,0 +1,15 @@
+{
+  "item.modstixio.tongstone_fragment":"童石碎片",
+  "item.modstixio.redstix_core":"Redstix核心",
+  "item.modstixio.redstix_whip":"Redstix钩索",
+  "item.modstixio.redstix_coil":"Redstix线圈",
+  "item.modstixio.compressed_redstix_core":"致密的Redstix核心",
+  "item.modstixio.reinforced_redstix_whip":"精锻的Redstix钩索",
+  "item.modstixio.pull_rate.info": "拉拽概率: %.1f%%",
+  "item.modstixio.pull_strength.info": " 拉拽力度: %.1f",
+  "item.modstixio.pull_cooldown.info": " 拉拽冷却: %.1fs",
+
+  "block.modstixio.tongstone":"童石",
+
+  "itemGroup.modstix":"modstix"
+}

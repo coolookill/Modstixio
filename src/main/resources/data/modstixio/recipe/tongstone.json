@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": "modstixio:tongstone_fragment",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "TTT",
+    "TRT",
+    "TTT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "modstixio:tongstone"
+  }
+}
