@@ -20,8 +20,8 @@ Weapon : **Redstix Whip**
 
 Item : **Compressed Redstix Core**
 
-Item : **Reinforced Redstix Whip**
+Weapon : **Reinforced Redstix Whip**
 
-Add tips for Redstix Whips:
+Add **tips** for Redstix Whips:
 
 ![](https://s41.ax1x.com/2026/05/24/pm9jVLq.png)
